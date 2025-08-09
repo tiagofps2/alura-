@@ -155,7 +155,7 @@ body {
 
 .secundario__botao:hover{
     background-color: transparent;
-    border: 3px solid var(--botao-azul);
+    border: 1px solid var(--branco-principal);
     transition: 0.4s;
 }
 
