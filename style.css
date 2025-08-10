@@ -193,6 +193,6 @@ body {
     }
 
     .rodape__lista {
-        display: bloc;
+        display: block;
     }
 }
